@@ -1,2 +1,2 @@
 # calibre-search
-Search book by name through shell quickly.
+快速搜索calibre中的图书。
